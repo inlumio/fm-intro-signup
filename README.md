@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/news-homepage-qfnkf_0M2L)
-- Live Site URL: [GitHub Pages](https://inlumio.github.io/fm-news-homepage/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-Mi0yWh5Mxc)
+- Live Site URL: [GitHub Pages](https://inlumio.github.io/fm-intro-signup/)
 
 ## My process
 
